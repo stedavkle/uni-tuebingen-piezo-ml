@@ -1,13 +1,12 @@
 
-# Gemstone Classifier
+# Evaluating Machine Learning Models for Modelling Piezo Dynamics
 **Authors** David Kleindiek
 
 **Date** 20.08.2024
 
 GitHub repository for the research project during the summer term 2024 at the Eberhard-Karls Universität Tübingen.
 
-The project report is available [here](doc/Evaluating_Machine_Learning_Models_for_Modelling_Piezo_Dynamics.pdf)
-The project presentation can be accessed [here](doc/Preseantation.pdf)
+The project report is available [here](doc/Evaluating_Machine_Learning_Models_for_Modelling_Piezo_Dynamics.pdf). The project presentation can be accessed [here](doc/Preseantation.pdf)
 
 ## Overview
 This repository contains the research work conducted to develop and evaluate machine learning models to predict the behaviour of piezo actuators. The aim of this project is to evaluate how machine learning models can bne used to predict piezo creep and hysteresis.
@@ -24,7 +23,7 @@ The repository is organized into several directories:
  - [`src/`](src): Contains Python notebooks for controling the devices, data recording and quantification of system dynamics.
  - [`exp/`](exp): Contains Python notebooks for feature generation, model training, model evaluation, the trained model files and code for creating any figures.
  - [`dat/`](dat): Contains raw and processed data used in the project, including recordings of piezo displacement behaviour, sensor noise quantification and model predictions.
- - [`doc/`](doc): Documentation, including the project report and any additional figures.
+ - [`doc/`](doc): Documentation, including the project report, presentation and any additional figures.
 
 ### Running the code
 1. Clone the repository:
