@@ -1,0 +1,11 @@
+numpy
+matplotlib
+tqdm
+pandas
+pyserial
+scikit-learn
+pykan
+sympy
+torch
+tueplots
+scipy
