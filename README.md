@@ -23,7 +23,7 @@ The repository is organized into several directories:
  - [`src/`](src): Contains Python notebooks for controling the devices, data recording and quantification of system dynamics.
  - [`exp/`](exp): Contains Python notebooks for feature generation, model training, model evaluation and the trained model files.
  - [`dat/`](dat): Contains raw and processed data used in the project, including recordings of piezo displacement behaviour, sensor noise quantification and model predictions.
- - [`doc/`](doc): Documentation, including the project report and any additional figures.
+ - [`doc/`](doc): Documentation, including the project report, presentation and any additional figures.
 
 ### Running the code
 1. Clone the repository:
